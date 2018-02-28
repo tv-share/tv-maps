@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "../src/styles/_index";
 
 import { Example } from "../src/index";
 
